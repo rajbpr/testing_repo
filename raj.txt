@@ -1,1 +1,2 @@
 today day started with learning git
+learning merge conflicts
